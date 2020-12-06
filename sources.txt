@@ -1,6 +1,6 @@
-1. GW170817—the first observed neutron star merger and its kilonova: implications for the astrophysical site of the r-process? (https://arxiv.org/pdf/1901.09044.pdf)
+1. GW170817—the first observed neutron star merger and its kilonova: implications for the astrophysical site of the r-process? (https://arxiv.org/pdf/1901.09044.pdf)  *USED IN NUCLEAR PAPER
 
-2. The r-process and Neutrino-Heated Supernova Ejecta (http://adsabs.harvard.edu/full/1994ApJ...433..229W)
+2. The r-process and Neutrino-Heated Supernova Ejecta (http://adsabs.harvard.edu/full/1994ApJ...433..229W)  *USED IN NUCLEAR PAPER
 
 3. Production of the Entire Range of r-process nuclides by black hole accretion disc outflows from neutron mergers (https://arxiv.org/pdf/1607.05290.pdf)
 
@@ -16,3 +16,4 @@
 
 9. Identification of Strontium in the merger of two neutron stars (https://arxiv.org/pdf/1910.10510.pdf)
 
+10. The "weak" r-process in core-collpase supernovae (http://adsabs.harvard.edu/full/2005IAUS..228..435W)  *USED IN NUCLEAR PAPER
