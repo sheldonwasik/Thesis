@@ -17,3 +17,7 @@
 9. Identification of Strontium in the merger of two neutron stars (https://arxiv.org/pdf/1910.10510.pdf)
 
 10. The "weak" r-process in core-collpase supernovae (http://adsabs.harvard.edu/full/2005IAUS..228..435W)  *USED IN NUCLEAR PAPER
+
+11. s-process stuff https://arxiv.org/pdf/1810.01788.pdf
+
+12. r-process location parameters??? (https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.29.547)
