@@ -1,23 +1,36 @@
-1. GW170817—the first observed neutron star merger and its kilonova: implications for the astrophysical site of the r-process? (https://arxiv.org/pdf/1901.09044.pdf)  *USED IN NUCLEAR PAPER
+X1. GW170817—the first observed neutron star merger and its kilonova: implications for the astrophysical site of the r-process? (https://arxiv.org/pdf/1901.09044.pdf)  *USED IN NUCLEAR PAPER
 
-2. The r-process and Neutrino-Heated Supernova Ejecta (http://adsabs.harvard.edu/full/1994ApJ...433..229W)  *USED IN NUCLEAR PAPER
+X2. The r-process and Neutrino-Heated Supernova Ejecta (http://adsabs.harvard.edu/full/1994ApJ...433..229W)  *USED IN NUCLEAR PAPER
 
-3. Production of the Entire Range of r-process nuclides by black hole accretion disc outflows from neutron mergers (https://arxiv.org/pdf/1607.05290.pdf)
+x3. Production of the Entire Range of r-process nuclides by black hole accretion disc outflows from neutron mergers (https://arxiv.org/pdf/1607.05290.pdf)
 
-4. The r-Process in Black Hole Winds (https://arxiv.org/pdf/1006.2277.pdf)
+check dates above
 
-5. The r-Process in the neutrino-Driven wind from black-hole tours (https://arxiv.org/pdf/1106.6142.pdf)\
+x4. The r-Process in Black Hole Winds (https://arxiv.org/pdf/1006.2277.pdf)
 
-6. Using failed Supernovae to constrain the Galactic r-Process element production (https://arxiv.org/pdf/1908.05617.pdf)
+X5. The r-Process in the neutrino-Driven wind from black-hole tours (https://arxiv.org/pdf/1106.6142.pdf)\
 
-7. R-Process Nucleosynthesis from 3-D Magnorotational Core-Collapse Supernovae (https://arxiv.org/pdf/1712.09370.pdf)
+X6. Using failed Supernovae to constrain the Galactic r-Process element production (https://arxiv.org/pdf/1908.05617.pdf)
 
-8. The formation of the heaviest elements (https://physicstoday.scitation.org/doi/10.1063/PT.3.3815)
+X7. R-Process Nucleosynthesis from 3-D Magnorotational Core-Collapse Supernovae (https://arxiv.org/pdf/1712.09370.pdf)
 
-9. Identification of Strontium in the merger of two neutron stars (https://arxiv.org/pdf/1910.10510.pdf)
+X8. The formation of the heaviest elements (https://physicstoday.scitation.org/doi/10.1063/PT.3.3815)
 
-10. The "weak" r-process in core-collpase supernovae (http://adsabs.harvard.edu/full/2005IAUS..228..435W)  *USED IN NUCLEAR PAPER
+X9. Identification of Strontium in the merger of two neutron stars (https://arxiv.org/pdf/1910.10510.pdf)
 
-11. s-process stuff https://arxiv.org/pdf/1810.01788.pdf
+X10. The "weak" r-process in core-collpase supernovae (http://adsabs.harvard.edu/full/2005IAUS..228..435W)  *USED IN NUCLEAR PAPER
 
-12. r-process location parameters??? (https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.29.547)
+X11. s-process stuff https://arxiv.org/pdf/1810.01788.pdf
+
+X12. r-process location parameters??? (https://journals.aps.org/rmp/pdf/10.1103/RevModPhys.29.547)
+
+X13. Reexamining the temperature and neutron density conditions for r-process nucleosynthesis with augmented nuclear mass models (https://arxiv.org/pdf/1208.2341.pdf)
+
+X14. The abundance of the elments m(https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.28.53)
+
+
+X16. https://iopscience.iop.org/article/10.1088/0034-4885/52/8/002/pdf
+
+Xhttps://www.ligo.caltech.edu/page/what-is-ligo
+
+http://sagadatabase.jp/
